@@ -1,0 +1,30 @@
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+indent_mode=2
+
+[project]
+name=Web Crawler
+base_path=/home/alex/programming/projects/web-crawler/
+description=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=5
+FILE_NAME_0=0;C++;0;16;1;1;0;/home/alex/programming/projects/web-crawler/error.cpp;0
+FILE_NAME_1=0;C;0;16;1;1;0;/home/alex/programming/projects/web-crawler/error.h;0
+FILE_NAME_2=4206;C++;0;16;1;1;0;/home/alex/programming/projects/web-crawler/http.cpp;0
+FILE_NAME_3=711;C;0;16;1;1;0;/home/alex/programming/projects/web-crawler/http.h;0
+FILE_NAME_4=906;C++;0;16;1;1;0;/home/alex/programming/projects/web-crawler/main.cpp;0
+FILE_NAME_5=4850;C++;0;16;1;1;0;/home/alex/programming/projects/web-crawler/netsock.cpp;0
+FILE_NAME_6=588;C;0;16;1;1;0;/home/alex/programming/projects/web-crawler/netsock.h;0
+FILE_NAME_7=0;C;0;16;1;1;0;/home/alex/programming/projects/web-crawler/os.h;0
+FILE_NAME_8=8550;C++;0;16;1;1;0;/home/alex/programming/projects/web-crawler/text.cpp;0
+FILE_NAME_9=0;C;0;16;1;1;0;/home/alex/programming/projects/web-crawler/text.h;0
+FILE_NAME_10=805;C++;0;16;1;1;0;/home/alex/programming/projects/vexis-bot/main.cpp;0
